@@ -3,18 +3,18 @@ This app consists in an MVC API skeleton providing the basic coding for a comple
 
 ## Instalation
 
-To install it you need clone the repository,
+First off, to install it you need clone the repository,
 
 ```
 $ git clone https://github.com/jaquiel/node-api-mvc-skeleton.git 
 ```
 
-an then with Yarn:
+So, you can run the project with Yarn:
 ```
 $ yarn start
 ```
 
-or with npm 
+or run it with npm 
 
 ```
 $ npm install

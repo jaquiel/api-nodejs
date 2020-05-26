@@ -2,10 +2,10 @@
 This app consists in an MVC API skeleton providing the basic coding for a complete API solution.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
-Make sure you have a package manager for JavaScript installed in your machine. It will be necessary for you can install all the dependencies on project.
+Make sure you have a package manager for JavaScript installed in your local machine. It will be necessary for you can install all the dependencies on project.
 
 ### Instalation
 

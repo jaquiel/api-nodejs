@@ -14,9 +14,3 @@ So, you can run the project with Yarn:
 $ yarn start
 ```
 
-or run it with npm 
-
-```
-$ npm install
-$ npm init
-```
